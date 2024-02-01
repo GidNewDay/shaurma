@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shaurma/static/css/main.a23865a4.css",
+    "main.js": "/shaurma/static/js/main.b39bd39c.js",
+    "static/media/shaurma.jpg": "/shaurma/static/media/shaurma.579e1f1c1213fd151e97.jpg",
+    "index.html": "/shaurma/index.html",
+    "main.a23865a4.css.map": "/shaurma/static/css/main.a23865a4.css.map",
+    "main.b39bd39c.js.map": "/shaurma/static/js/main.b39bd39c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23865a4.css",
+    "static/js/main.b39bd39c.js"
+  ]
+}
